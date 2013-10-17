@@ -1,14 +1,19 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+### Gunnar Karl Pálmason
+
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Uppsetningin gekk frekar auðveldlega á ubuntu-Virtualbox vélinni, linkarnir í verkefninu virkuðu, og step by step
+leiðbeiningar á netinu voru vel skrifaðar.
+
+![alt text](C:\Users\Gunnar\Desktop\skóli\into\ubuntu 13.png "Startup")
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Uppsetning á þessum forritum gekk eins og í sögu, þ.e. skipanirnar í verkefninu virkuðu eins auðveldlega
+og við var að búast.
 
 ## 3. Unnið með Git (1. hluti)
 
