@@ -25,6 +25,8 @@ skrárnar þá gekk þetta eins og í sögu.
 * Jitsi GPL licence [Jitsi.org](https://github.com/jitsi/jitsi)
 * PuTTY client MIT Lisence [putty.org](svn.tartarus.org/sgt/putty/)
 * GNU Debugger GPL licence [gnu.org](sourceware.org/gdb/current/)
+
+
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
