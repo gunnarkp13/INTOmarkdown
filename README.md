@@ -22,9 +22,9 @@ skrárnar þá gekk þetta eins og í sögu.
 
 ## 4. Uppsettur hugbúnaður
 
-* Jitsi GPL licence [Jitsi.org](https://github.com/jitsi/jitsi)
-* PuTTY client MIT Lisence [putty.org](svn.tartarus.org/sgt/putty/)
-* GNU Debugger GPL licence [gnu.org](sourceware.org/gdb/current/)
+* Jitsi GPL licence [Linkur á source code](https://github.com/jitsi/jitsi)
+* PuTTY-client MIT Lisence [Linkur á source code](svn.tartarus.org/sgt/putty/)
+* GNU Debugger GPL licence [Linkur á source code](sourceware.org/gdb/current/)
 
 
 ## 5. Unnið með Git (2. hluti)
