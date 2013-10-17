@@ -8,7 +8,7 @@
 Uppsetningin gekk frekar auðveldlega á ubuntu-Virtualbox vélinni, linkarnir í verkefninu virkuðu, og step by step
 leiðbeiningar á netinu voru vel skrifaðar.
 
-![alt text](C:\Users\Gunnar\Desktop\skóli\into\ubuntu 13.png "Startup")
+![Alt text](C:\Users\Gunnar\Desktop\skóli\into\ubuntu 13.png "Startup")
 
 ## 2. Uppsetning á vim && git
 
