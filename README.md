@@ -17,14 +17,14 @@ og við var að búast.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Þetta tók smá tíma að setja account, SSH lykilinn og allar styllingar, en um leið og ég var búinn að ná í 
+skrárnar þá gekk þetta eins og í sögu.
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
-
+* Jitsi GPL licence [Jitsi.org](https://github.com/jitsi/jitsi)
+* PuTTY client MIT Lisence [putty.org](svn.tartarus.org/sgt/putty/)
+* GNU Debugger GPL licence [gnu.org](sourceware.org/gdb/current/)
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
