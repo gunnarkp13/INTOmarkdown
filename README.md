@@ -8,7 +8,10 @@
 Uppsetningin gekk frekar auðveldlega á ubuntu-Virtualbox vélinni, linkarnir í verkefninu virkuðu, og step by step
 leiðbeiningar á netinu voru vel skrifaðar.
 
-![Alt text](C:\Users\Gunnar\Desktop\skóli\into\ubuntu 13.png "Startup")
+![Ubuntu login screen]:http://i42.tinypic.com/r/x5te0y.png
+
+Virtuabox er alltof fljótt að ræsast á ssd disknum hjá mér að ég get ekki náð screen shotti af bootup processinum heldur fyrsta mynd
+er login screen.
 
 ## 2. Uppsetning á vim && git
 
